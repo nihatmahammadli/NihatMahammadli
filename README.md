@@ -12,9 +12,12 @@
 
 ---
 
-## 🔗 Connect with me:
-- GitHub: [github.com/nihatmahammadli](https://github.com/nihatmahammadli)  
-- LinkedIn: [linkedin.com/in/nihatmahammadli](https://www.linkedin.com/in/nihat-mahammadli-996911323)  
+## 🔗 Connect with me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nihatmahammadli)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihat-mahammadli-996911323)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nnihatyy)  
+
 
 ---
 
