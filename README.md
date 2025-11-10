@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nihat Mahammadli  
 
-📱 A Junior **Android & Web Developer** from Azerbaijan  
+📱 A Junior **Android Developer** from Azerbaijan  
 
 🌱 I’m currently learning **Jetpack Compose** and **MVI**  
 🔭 I’m working on Android apps like **ABB Mobile**, **Weather App**, **Step Counter App**, and simple **CRUD apps**  
