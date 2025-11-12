@@ -6,7 +6,7 @@
 🔭 I’m working on Android apps like **ABB Mobile**, **Weather App**, **Step Counter App**, and simple **CRUD apps**  
 💻 I also build web projects like **Library Book Store**, **Real-Estate Platform**, and **Job Portal**  
 
-💬 Ask me about **Kotlin, Android Development, Firebase, Retrofit, MVVM, Clean Architecture, HTML, CSS, JS**  
+💬 Ask me about **Kotlin, Android Development, Firebase, Retrofit, MVVM, Clean Architecture, Jetpack Compose**  
 📫 How to reach me: **nihat.mahammadli12@gmail.com**  
 ⚡ Fun fact: *I debug faster with coffee ☕ than without it*  
 
